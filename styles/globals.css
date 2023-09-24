@@ -1,9 +1,15 @@
 html,
+/* Reset default margin and padding for the body element */
 body {
-  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  padding: 0;
+  /* Set background properties to make the image cover the entire viewport */
+  background-image: url('/WhatsApp Image 2023-09-24 at 17.21.27.jpg'); /* Replace with the path to your image */
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  /* Set background-attachment to fixed if you want the image to remain fixed while scrolling */
+  /* background-attachment: fixed; */
 }
 
 a {

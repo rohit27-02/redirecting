@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   /* Set background properties to make the image cover the entire viewport */
-  background-image: url('/WhatsApp Image 2023-09-24 at 17.21.27.jpg'); /* Replace with the path to your image */
+  background-image: url('/bg.jpg'); /* Replace with the path to your image */
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
